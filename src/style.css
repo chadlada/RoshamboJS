@@ -28,6 +28,8 @@ h1 {
 .playertext {
   margin-left: 50px;
   font-weight: 900;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 23px;
 }
 
 aside {
@@ -38,6 +40,16 @@ aside {
 .resetbutton {
   display: flex;
   justify-content: center;
+}
+
+.winner {
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 27px;
+  background-color: black;
+  opacity: 0.77;
 }
 
 /* font-family: 'Monoton', cursive;
